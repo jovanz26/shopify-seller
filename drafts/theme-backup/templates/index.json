@@ -1,0 +1,382 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "ds_slideshow_jhiiyq": {
+      "type": "ds-slideshow",
+      "blocks": {
+        "slide_UgrXxH": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/core-strength-fitness.jpg",
+            "mobile_image": "shopify://shop_images/squatting-exercise.jpg",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_6B7cwD": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/about1.webp",
+            "mobile_image": "shopify://shop_images/dumbbells-and-gym-shoes.jpg",
+            "heading": "Gear Up for Victory – Shop Top Sports Equipment",
+            "heading_size": "h1",
+            "subheading": "Unleash your potential with premium gear for every sport.",
+            "button_label": "Shop Now",
+            "link": "shopify://products/waterproof-fitness-sports-travel-duffel-bag-versatile-weekender-for-men-and-women",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 40,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_pkJi7G": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/banner1.jpg",
+            "mobile_image": "shopify://shop_images/purple-yoga-mat-partially-rolled-on-a-wooden-floor.jpg",
+            "heading": "Unlock Your Full Potential!",
+            "heading_size": "h1",
+            "subheading": "Discover the best gear for every athlete—boost your performance with top-rated sports equipment and apparel.",
+            "button_label": "Shop Now",
+            "link": "shopify://products/waterproof-fitness-sports-travel-duffel-bag-versatile-weekender-for-men-and-women",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 10,
+            "color_scheme": "background-2",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_UgrXxH",
+        "slide_6B7cwD",
+        "slide_pkJi7G"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "small",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand",
+        "color_scheme": "background-1"
+      }
+    },
+    "multirow_ftq6YR": {
+      "type": "multirow",
+      "blocks": {
+        "row_QyfDjW": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/50018.jpg",
+            "caption": "Leyenda",
+            "heading": "Fila",
+            "text": "<p>Vincula un texto con una imagen para atraer la atención hacia tu producto, colección o artículo de blog seleccionados. Agrega detalles sobre disponibilidad y estilo, o incluso ofrece una reseña.</p>",
+            "button_label": "Etiqueta de botón",
+            "button_link": ""
+          }
+        },
+        "row_gWrV8y": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/44d9379b73ce69cf772696668f57118d.jpg",
+            "caption": "",
+            "heading": "<strong>Built for Your Active Life</strong>",
+            "text": "<h5>Designed to accommodate all your essentials, from workout clothes to sports equipment, with room to spare. Perfect for gym sessions, practice, or weekend tournaments. Crafted with high-quality, water-resistant polyester to protect your belongings from unexpected weather or spills, ensuring long-lasting use. Keep your dirty shoes or sweaty gear separate from clean items, thanks to a dedicated, ventilated pocket that reduces odor buildup.</h5>",
+            "button_label": "Buy now",
+            "button_link": "shopify://products/waterproof-fitness-sports-travel-duffel-bag-versatile-weekender-for-men-and-women"
+          }
+        },
+        "row_mjxcta": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/3835ff5d1db570bc81fe43bda3af74a9.jpg",
+            "caption": "",
+            "heading": "<strong>Your Companion Workout</strong>",
+            "text": "<h5>Engineered to be lightweight without compromising strength, making it easy to carry while withstanding heavy loads of gear. Whether you’re hitting the gym, heading to practice, or going on a weekend trip, the PowerPack adapts to all your needs with smartly designed compartments and layouts. Interior lining is easy to wipe clean, so spills and messes from water bottles or post-workout snacks are no longer a hassle.</h5>",
+            "button_label": "Buy now",
+            "button_link": "shopify://products/waterproof-fitness-sports-travel-duffel-bag-versatile-weekender-for-men-and-women"
+          }
+        },
+        "row_ga3i9m": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/ee0976777e4b5dcf70668f69596ea62a.jpg",
+            "caption": "",
+            "heading": "<strong>Performance and Style in One</strong>",
+            "text": "<h5>Adjustable dividers and removable compartments let you organize your bag your way, whether you’re carrying gym gear, sports equipment, or travel essentials. Built-in reflective strips enhance visibility for early-morning or late-night outings, keeping you safe while on the go. Designed with your comfort in mind, the padded back panel reduces strain and provides extra support, even when carrying heavy loads.</h5>",
+            "button_label": "Buy now",
+            "button_link": "shopify://products/waterproof-fitness-sports-travel-duffel-bag-versatile-weekender-for-men-and-women"
+          }
+        }
+      },
+      "block_order": [
+        "row_QyfDjW",
+        "row_gWrV8y",
+        "row_mjxcta",
+        "row_ga3i9m"
+      ],
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "heading_size": "h2",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "scheme-68ab2610-ae84-4df1-8530-c2146566684a",
+        "row_color_scheme": "scheme-43067ba1-e386-413e-947a-e8551c01b85f",
+        "mobile_content_alignment": "center",
+        "padding_top": 32,
+        "padding_bottom": 32
+      }
+    },
+    "ds_horizontal_ticker_Tfpimk": {
+      "type": "ds-horizontal-ticker",
+      "blocks": {
+        "text_krtTHy": {
+          "type": "text",
+          "settings": {
+            "title": "Seasonal Sale"
+          }
+        },
+        "text_EDEaTP": {
+          "type": "text",
+          "settings": {
+            "title": "Seasonal Sale"
+          }
+        },
+        "text_PLWHrP": {
+          "type": "text",
+          "settings": {
+            "title": "Seasonal Sale"
+          }
+        }
+      },
+      "block_order": [
+        "text_krtTHy",
+        "text_EDEaTP",
+        "text_PLWHrP"
+      ],
+      "settings": {
+        "speed": 3,
+        "text_spacing": 1.5,
+        "text_size": "1.75",
+        "italic_text": false,
+        "uppercase_text": false,
+        "bold_text": false,
+        "color_scheme": "accent-2",
+        "padding_top": 16,
+        "padding_bottom": 16,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39"
+      }
+    },
+    "newsletter_aPCdW9": {
+      "type": "newsletter",
+      "blocks": {
+        "heading_TDCNxK": {
+          "type": "heading",
+          "settings": {
+            "heading": "Don't Miss Our Hot Deals!",
+            "heading_size": "h2"
+          }
+        },
+        "paragraph_jCxPHJ": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.</p>"
+          }
+        },
+        "email_form_enPNHt": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "heading_TDCNxK",
+        "paragraph_jCxPHJ",
+        "email_form_enPNHt"
+      ],
+      "settings": {
+        "color_scheme": "scheme-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "ds_icon_bar_HaUALW": {
+      "type": "ds-icon-bar",
+      "blocks": {
+        "column_4zRAFa": {
+          "type": "column",
+          "settings": {
+            "icon": "star",
+            "title": "Premium Quality Gear",
+            "text": "<h5><strong>From activewear to sports equipment, you can trust that our gear is made to last and designed to enhance your athletic performance</strong></h5>"
+          }
+        },
+        "column_KRBcLg": {
+          "type": "column",
+          "settings": {
+            "icon": "fire",
+            "title": "Expert Recommendations",
+            "text": "<h5><strong>Whether you're beginner or aseasoned pro, we provide personalized recommendations to match your needs.</strong></h5>"
+          }
+        },
+        "column_wbHVEM": {
+          "type": "column",
+          "settings": {
+            "icon": "truck",
+            "title": "Fast & Free Shipping",
+            "text": "<h5><strong>We offer fast and free shipping on orders over $50, so you can get back to training, playing, and performing without the wait.</strong></h5>"
+          }
+        }
+      },
+      "block_order": [
+        "column_4zRAFa",
+        "column_KRBcLg",
+        "column_wbHVEM"
+      ],
+      "settings": {
+        "title": "Why Choose Us?",
+        "heading_size": "h2",
+        "text": "",
+        "icon_size": "small",
+        "columns_desktop": 3,
+        "icon_color": "accent-2",
+        "background_style": "none",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 48,
+        "padding_bottom": 56,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39"
+      }
+    },
+    "video_MjrBeT": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "",
+        "cover_image": "shopify://shop_images/about2.webp",
+        "description": "",
+        "full_width": true,
+        "color_scheme": "scheme-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "ds_testimonials_F4dxEV": {
+      "type": "ds-testimonials",
+      "blocks": {
+        "column_94mA9b": {
+          "type": "column",
+          "settings": {
+            "title": "Game-Changer for My Training",
+            "text": "<h5>I've been using the gear from this store for a few months now, and it’s truly a game-changer for my training...</h5>",
+            "author": "Sarah L."
+          }
+        },
+        "column_B6D3xg": {
+          "type": "column",
+          "settings": {
+            "title": "Perfect Fit for My Fitness Journey",
+            "text": "<h5>The quality of the activewear and supplements here is fantastic. I started using their protein powder and have ...</h5>",
+            "author": "Daniel M."
+          }
+        },
+        "column_geRhPq": {
+          "type": "column",
+          "settings": {
+            "title": "Top-Notch Sports Equipment!",
+            "text": "<h5>I’m extremely impressed with the tennis rackets and balls I purchased from this store. The racket is lightweight...</h5>",
+            "author": "Emily R."
+          }
+        }
+      },
+      "block_order": [
+        "column_94mA9b",
+        "column_B6D3xg",
+        "column_geRhPq"
+      ],
+      "settings": {
+        "title": "What Our Clients Say",
+        "heading_size": "h2",
+        "text": "",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "slider_preview": true,
+        "column_alignment": "center",
+        "show_stars": false,
+        "stars_color": "#ffd700",
+        "show_quotes": false,
+        "quotes_color_scheme": "accent-2",
+        "background_style": "primary",
+        "color_scheme": "background-1",
+        "padding_top": 48,
+        "padding_bottom": 48,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39"
+      }
+    },
+    "contact_form_6NFGbR": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Contact form",
+        "heading_size": "h1",
+        "button_full_width": true,
+        "color_scheme": "custom",
+        "padding_top": 12,
+        "padding_bottom": 56,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#000000",
+        "custom_colors_solid_button_background": "#6f7ca2",
+        "custom_colors_solid_button_text": "#ffffff"
+      }
+    }
+  },
+  "order": [
+    "ds_slideshow_jhiiyq",
+    "multirow_ftq6YR",
+    "ds_horizontal_ticker_Tfpimk",
+    "newsletter_aPCdW9",
+    "ds_icon_bar_HaUALW",
+    "video_MjrBeT",
+    "ds_testimonials_F4dxEV",
+    "contact_form_6NFGbR"
+  ]
+}

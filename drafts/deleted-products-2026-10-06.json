@@ -1,0 +1,1031 @@
+{
+ "data": {
+  "products": {
+   "nodes": [
+    {
+     "id": "gid://shopify/Product/8813696221319",
+     "title": "Adjustable Breathing Trainer",
+     "handle": "adjustable-breathing-trainer",
+     "status": "ACTIVE",
+     "vendor": "Mi tienda",
+     "productType": "Fitness Accessories",
+     "tags": [
+      "breathing",
+      "cardio",
+      "endurance",
+      "portable"
+     ],
+     "descriptionHtml": "<p>Train the muscles you breathe with. This compact breathing trainer adds adjustable resistance to every breath, so you can work on your respiratory strength and endurance at home, at the gym or on the go.</p><h3>Why you'll like it</h3><ul>\n<li>\n<strong>Adjustable resistance</strong> – set the intensity with an easy-to-turn dial and increase it as you progress.</li>\n<li>\n<strong>Portable and lightweight</strong> – small enough to carry in a pocket or gym bag.</li>\n<li>\n<strong>For every level</strong> – suitable for beginners and experienced athletes.</li>\n<li>\n<strong>No equipment needed</strong> – just a few minutes a day, wherever you are.</li>\n</ul>",
+     "seo": {
+      "title": "Adjustable Breathing Trainer | SIVORA",
+      "description": "Portable breathing trainer with an adjustable resistance dial. Train your respiratory muscles anywhere, at any fitness level."
+     },
+     "options": [
+      {
+       "name": "Title",
+       "values": [
+        "Default Title"
+       ]
+      }
+     ],
+     "media": {
+      "nodes": [
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/79b099ca445a8b37ca84bcac7d20cd9c.jpg?v=1789339699",
+         "altText": "#000000"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/4059502fc005a43872cfa6c067a75996.jpg?v=1789339699",
+         "altText": "Breathing Trainer Respirator"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/02b1ce51590f96db6ac1389bb45b9207.jpg?v=1789339699",
+         "altText": "Breathing Trainer Respirator"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/fc9379a6d7bf23cea26fd5093dca8859.jpg?v=1789339699",
+         "altText": "Breathing Trainer Respirator"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/f579d225801cea26d989a73ecccee43a.jpg?v=1789339699",
+         "altText": "Breathing Trainer Respirator"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/44d9379b73ce69cf772696668f57118d.jpg?v=1789339699",
+         "altText": "Breathing Trainer Respirator"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/d99680a2bdd12a3082401a962a3f0003.jpg?v=1789339699",
+         "altText": "Breathing Trainer Respirator"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/c8120ee06f7ceb8c8f3e1e6ef7d43397.jpg?v=1789339700",
+         "altText": "Breathing Trainer Respirator"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/f1f39075a05ac851fa55bb855993872d.jpg?v=1789339700",
+         "altText": "Breathing Trainer Respirator"
+        }
+       }
+      ]
+     },
+     "variants": {
+      "nodes": [
+       {
+        "title": "Default Title",
+        "sku": "42275258171461",
+        "price": "13.99",
+        "compareAtPrice": "15.00",
+        "selectedOptions": [
+         {
+          "name": "Title",
+          "value": "Default Title"
+         }
+        ]
+       }
+      ]
+     },
+     "collections": {
+      "nodes": [
+       {
+        "handle": "fitness-accessories",
+        "title": "Fitness Accessories"
+       }
+      ]
+     }
+    },
+    {
+     "id": "gid://shopify/Product/8813731283079",
+     "title": "Portable Manual Espresso Maker",
+     "handle": "portable-manual-espresso-maker",
+     "status": "ACTIVE",
+     "vendor": "Mi tienda",
+     "productType": "Kitchen & Travel",
+     "tags": [
+      "camping",
+      "coffee",
+      "espresso",
+      "travel"
+     ],
+     "descriptionHtml": "<p>Espresso wherever you are. This hand-press coffee maker works without batteries or electricity and brews a 30–50 ml espresso in just 1–2 minutes – perfect for road trips, camping or the office.</p><h3>Features</h3><ul>\n<li>\n<strong>3-in-1 compatibility</strong> – works with Nespresso capsules, Dolce Gusto capsules and ground coffee.</li>\n<li>\n<strong>Fully manual</strong> – just add coffee and hot or cold water and press.</li>\n<li>\n<strong>Compact and light</strong> – fits easily in a backpack or travel bag.</li>\n<li>\n<strong>Easy to clean</strong> – removable parts rinse clean in seconds.</li>\n</ul><h3>Specifications</h3><ul>\n<li>Coffee basket: 10 g ground coffee or one 5–6 g capsule</li>\n<li>Water tank: 80 ml</li>\n<li>Output: 30–50 ml espresso</li>\n<li>Colors: White, Black</li>\n</ul><p><em>Tip: use coarse ground coffee. Fine grounds can clog the filter.</em></p>",
+     "seo": {
+      "title": "Portable Manual Espresso Maker | SIVORA",
+      "description": "Hand-press espresso maker for capsules or ground coffee. No batteries or electricity, ready in 1–2 minutes. Ideal for travel and camping."
+     },
+     "options": [
+      {
+       "name": "Color",
+       "values": [
+        "White",
+        "Black"
+       ]
+      }
+     ],
+     "media": {
+      "nodes": [
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/12ac040ece956bb841d64bde1aa37ddb.jpg?v=1789341404",
+         "altText": "Portable Coffee Maker Espresso Machine Hand Press Capsule Ground Coffee Brewer Portable for Travel and Picnic"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/fc098570289ab9145a418755d2f29b67.jpg?v=1789341404",
+         "altText": "Portable Coffee Maker Espresso Machine Hand Press Capsule Ground Coffee Brewer Portable for Travel and Picnic"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/34ae371fb683132ef238d347e08715a3.jpg?v=1789341404",
+         "altText": "Portable Coffee Maker Espresso Machine Hand Press Capsule Ground Coffee Brewer Portable for Travel and Picnic"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/0a801bcd5f6222140c5781c65b228bf7.jpg?v=1789341404",
+         "altText": "Portable Coffee Maker Espresso Machine Hand Press Capsule Ground Coffee Brewer Portable for Travel and Picnic"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/5ac9254de43ed3bee03caa063d0f7539.jpg?v=1789341404",
+         "altText": "Portable Coffee Maker Espresso Machine Hand Press Capsule Ground Coffee Brewer Portable for Travel and Picnic"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/9565d48940409fd85e0b03a1dba0c487.jpg?v=1789341405",
+         "altText": "Portable Coffee Maker Espresso Machine Hand Press Capsule Ground Coffee Brewer Portable for Travel and Picnic"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/3e3cbe2b02b99a2f0a22506e983b7b80.jpg?v=1789341404",
+         "altText": "Portable Coffee Maker Espresso Machine Hand Press Capsule Ground Coffee Brewer Portable for Travel and Picnic"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/ca33e29b9a4e3678d053d54efc0dc127.jpg?v=1789341404",
+         "altText": "Portable Coffee Maker Espresso Machine Hand Press Capsule Ground Coffee Brewer Portable for Travel and Picnic"
+        }
+       }
+      ]
+     },
+     "variants": {
+      "nodes": [
+       {
+        "title": "White",
+        "sku": "32166ad7-777d-40bb-948e-512449603bc8",
+        "price": "44.62",
+        "compareAtPrice": "0.00",
+        "selectedOptions": [
+         {
+          "name": "Color",
+          "value": "White"
+         }
+        ]
+       },
+       {
+        "title": "Black",
+        "sku": "0806a713-8bc5-482c-aaeb-e9202b1c31ba",
+        "price": "44.12",
+        "compareAtPrice": "0.00",
+        "selectedOptions": [
+         {
+          "name": "Color",
+          "value": "Black"
+         }
+        ]
+       }
+      ]
+     },
+     "collections": {
+      "nodes": []
+     }
+    },
+    {
+     "id": "gid://shopify/Product/8861086679175",
+     "title": "Waterproof Running Belt Phone Pouch",
+     "handle": "waterproof-running-belt",
+     "status": "ACTIVE",
+     "vendor": "SIVORA",
+     "productType": "Fitness Accessories",
+     "tags": [
+      "phone holder",
+      "running",
+      "travel",
+      "waist bag"
+     ],
+     "descriptionHtml": "<p>Run, hike or travel hands-free. This slim waist pouch keeps your phone, keys, cards and cash close to your body, so nothing bounces or falls out while you move.</p><h3>Features</h3><ul>\n<li>\n<strong>Fits most phones</strong> – room for phones up to about 6 inches plus small essentials.</li>\n<li>\n<strong>Waterproof fabric</strong> with a zipper closure.</li>\n<li>\n<strong>Adjustable strap</strong> – wear it on your waist or attach it to your bag.</li>\n<li>\n<strong>Comfortable backing</strong> – soft, quick-drying and sweat-absorbent.</li>\n<li>\n<strong>Keeps valuables secure</strong> – worn close to the body, harder for pickpockets to reach.</li>\n</ul><h3>Specifications</h3><ul>\n<li>Size: approx. 50 × 10 cm (measured by hand, ±1–3 cm)</li>\n<li>Colors: Orange, Blue, Green, Black, Pink</li>\n<li>Included: 1 running belt</li>\n</ul>",
+     "seo": {
+      "title": "Waterproof Running Belt & Phone Pouch | SIVORA",
+      "description": "Slim waterproof running belt that holds your phone, keys and cards. Adjustable strap, zipper closure, 5 colors."
+     },
+     "options": [
+      {
+       "name": "Color",
+       "values": [
+        "Orange",
+        "Blue",
+        "Green",
+        "Black",
+        "Pink"
+       ]
+      }
+     ],
+     "media": {
+      "nodes": [
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/654e4c9a981cc1cdc285f7cebc12394a.jpg?v=1790988084",
+         "altText": "Running Belt Waist Pouch for Women & Men Running Phone Holder Running Pouch Phone Holder for Running Running Belt for Phone"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/445bbee675218e12adcfa49955512d13.jpg?v=1790988084",
+         "altText": "Running Belt Waist Pouch for Women & Men Running Phone Holder Running Pouch Phone Holder for Running Running Belt for Phone"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/ef129de72ce9ad449b99c24cc5308b68.jpg?v=1790988085",
+         "altText": "Running Belt Waist Pouch for Women & Men Running Phone Holder Running Pouch Phone Holder for Running Running Belt for Phone"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/5f289f735a4bd190fe5e5c1bed929495.jpg?v=1790988084",
+         "altText": "Running Belt Waist Pouch for Women & Men Running Phone Holder Running Pouch Phone Holder for Running Running Belt for Phone"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/39ca3fb34b77cfc489356bf8ebe0742d.jpg?v=1790988084",
+         "altText": "Running Belt Waist Pouch for Women & Men Running Phone Holder Running Pouch Phone Holder for Running Running Belt for Phone"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/68b03dc0a178cea74f547853c9b80cfa.jpg?v=1790988084",
+         "altText": "Running Belt Waist Pouch for Women & Men Running Phone Holder Running Pouch Phone Holder for Running Running Belt for Phone"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/aab326557db092221da6fe1f4c03ec4a.jpg?v=1790988084",
+         "altText": "Running Belt Waist Pouch for Women & Men Running Phone Holder Running Pouch Phone Holder for Running Running Belt for Phone"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/c55f5cd0dc95726ba91b383df3a572eb.jpg?v=1790988084",
+         "altText": "Running Belt Waist Pouch for Women & Men Running Phone Holder Running Pouch Phone Holder for Running Running Belt for Phone"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/2229816f65a99c3b710c72408f0192a4.jpg?v=1790988084",
+         "altText": "Running Belt Waist Pouch for Women & Men Running Phone Holder Running Pouch Phone Holder for Running Running Belt for Phone"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/d1e95e79c27525ecc1f8b9282a8b336a.jpg?v=1790988084",
+         "altText": "Running Belt Waist Pouch for Women & Men Running Phone Holder Running Pouch Phone Holder for Running Running Belt for Phone"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/02d659be8851121f9f31888be9976d53.jpg?v=1790988084",
+         "altText": "Running Belt Waist Pouch for Women & Men Running Phone Holder Running Pouch Phone Holder for Running Running Belt for Phone"
+        }
+       }
+      ]
+     },
+     "variants": {
+      "nodes": [
+       {
+        "title": "Orange",
+        "sku": "289aec15-2aa5-4030-b1bd-8ff4f557cd69",
+        "price": "5.81",
+        "compareAtPrice": "0.00",
+        "selectedOptions": [
+         {
+          "name": "Color",
+          "value": "Orange"
+         }
+        ]
+       },
+       {
+        "title": "Blue",
+        "sku": "47ade2a9-2d84-4f72-a3ad-a97684d996b9",
+        "price": "6.04",
+        "compareAtPrice": "0.00",
+        "selectedOptions": [
+         {
+          "name": "Color",
+          "value": "Blue"
+         }
+        ]
+       },
+       {
+        "title": "Green",
+        "sku": "a2855af4-eb58-43d4-93f8-9a52d5efb791",
+        "price": "5.84",
+        "compareAtPrice": "0.00",
+        "selectedOptions": [
+         {
+          "name": "Color",
+          "value": "Green"
+         }
+        ]
+       },
+       {
+        "title": "Black",
+        "sku": "5436b6db-a09a-4fa0-85b5-569917f5825a",
+        "price": "5.96",
+        "compareAtPrice": "0.00",
+        "selectedOptions": [
+         {
+          "name": "Color",
+          "value": "Black"
+         }
+        ]
+       },
+       {
+        "title": "Pink",
+        "sku": "15afd1cf-d00f-41ab-b945-5722396336c3",
+        "price": "6.15",
+        "compareAtPrice": "0.00",
+        "selectedOptions": [
+         {
+          "name": "Color",
+          "value": "Pink"
+         }
+        ]
+       }
+      ]
+     },
+     "collections": {
+      "nodes": [
+       {
+        "handle": "fitness-accessories",
+        "title": "Fitness Accessories"
+       }
+      ]
+     }
+    },
+    {
+     "id": "gid://shopify/Product/8861086711943",
+     "title": "Foldable Squat Rider Machine with LCD",
+     "handle": "foldable-squat-rider-machine",
+     "status": "ACTIVE",
+     "vendor": "SIVORA",
+     "productType": "Home Gym Equipment",
+     "tags": [
+      "glutes",
+      "home gym",
+      "legs",
+      "squat"
+     ],
+     "descriptionHtml": "<p>Build stronger glutes and legs at home. This squat rider guides you through each rep with a supportive seat and handlebar, while three resistance bands let you adjust the challenge. When you're done, fold it away in seconds.</p><h3>Features</h3><ul>\n<li>\n<strong>3 resistance bands</strong> – about 22 lb each, combine them to match your level.</li>\n<li>\n<strong>LCD display</strong> – tracks time, distance and calories in real time.</li>\n<li>\n<strong>Guided, comfortable movement</strong> – a triangular seat support and ergonomic handlebar help you keep proper form.</li>\n<li>\n<strong>Works more than legs</strong> – multiple grip positions also engage arms, shoulders, back and core.</li>\n<li>\n<strong>Foldable</strong> – stores easily in small spaces.</li>\n</ul><h3>Specifications</h3><ul>\n<li>Frame: alloy steel</li>\n<li>Max user weight: 243 lb</li>\n<li>Recommended user height: 4'11\" – 6'11\"</li>\n<li>Dimensions in use: 43.7\" D × 19.3\" W × 49\" H</li>\n<li>Seat and handlebar: adjustable</li>\n<li>Color: White</li>\n</ul>",
+     "seo": {
+      "title": "Foldable Squat Rider Machine with LCD | SIVORA",
+      "description": "Foldable squat machine for glutes and quads with 3 resistance bands, LCD tracker and steel frame. Supports up to 243 lb."
+     },
+     "options": [
+      {
+       "name": "Actual Color",
+       "values": [
+        "White"
+       ]
+      }
+     ],
+     "media": {
+      "nodes": [
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/094c18372266211f34807357bcfdedf6.jpg?v=1790988083",
+         "altText": "Squat Assist Trainer Foldable Squat Rider Machine for Glutes and Quads with 3 Tension Bands"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/061937bbe2e2613a5b941192ab68a94d.jpg?v=1790988084",
+         "altText": "Squat Assist Trainer Foldable Squat Rider Machine for Glutes and Quads with 3 Tension Bands"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/85978a033d81b3431d12cc2e51db86ed.jpg?v=1790988083",
+         "altText": "Squat Assist Trainer Foldable Squat Rider Machine for Glutes and Quads with 3 Tension Bands"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/2749ba7fcdf707670d2e21d8940e311a.jpg?v=1790988083",
+         "altText": "Squat Assist Trainer Foldable Squat Rider Machine for Glutes and Quads with 3 Tension Bands"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/bba68665d3111d3be8d81bac895a5f0e.jpg?v=1790988084",
+         "altText": "Squat Assist Trainer Foldable Squat Rider Machine for Glutes and Quads with 3 Tension Bands"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/6371da2f080bc102adfae9e6553e32e1.jpg?v=1790988084",
+         "altText": "Squat Assist Trainer Foldable Squat Rider Machine for Glutes and Quads with 3 Tension Bands"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/d28bb392618e52225acdff224844cfd9.jpg?v=1790988084",
+         "altText": "Squat Assist Trainer Foldable Squat Rider Machine for Glutes and Quads with 3 Tension Bands"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/a47f091397fad1efd3cf3f2f20bc089e.jpg?v=1790988084",
+         "altText": "Squat Assist Trainer Foldable Squat Rider Machine for Glutes and Quads with 3 Tension Bands"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/ea131a8513cdab572e85dee36a7290f3.jpg?v=1790988084",
+         "altText": "Squat Assist Trainer Foldable Squat Rider Machine for Glutes and Quads with 3 Tension Bands"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/3835ff5d1db570bc81fe43bda3af74a9.jpg?v=1790988084",
+         "altText": "Squat Assist Trainer Foldable Squat Rider Machine for Glutes and Quads with 3 Tension Bands"
+        }
+       }
+      ]
+     },
+     "variants": {
+      "nodes": [
+       {
+        "title": "White",
+        "sku": "c44130b0-2fb1-40b7-8495-808cb8128c29",
+        "price": "79.47",
+        "compareAtPrice": "0.00",
+        "selectedOptions": [
+         {
+          "name": "Actual Color",
+          "value": "White"
+         }
+        ]
+       }
+      ]
+     },
+     "collections": {
+      "nodes": [
+       {
+        "handle": "home-gym",
+        "title": "Home Gym"
+       }
+      ]
+     }
+    },
+    {
+     "id": "gid://shopify/Product/8861086744711",
+     "title": "Foldable Ab & Core Trainer with LCD",
+     "handle": "foldable-ab-core-trainer",
+     "status": "ACTIVE",
+     "vendor": "SIVORA",
+     "productType": "Home Gym Equipment",
+     "tags": [
+      "abs",
+      "core",
+      "foldable",
+      "home gym"
+     ],
+     "descriptionHtml": "<p>Work your upper, middle and lower abs plus obliques with a machine built for home. Its 120° curved sliding track targets your core without straining your back or neck, and it folds flat when you're done.</p><h3>Features</h3><ul>\n<li>\n<strong>120° curved dual track</strong> – a more effective motion than flat vertical tracks.</li>\n<li>\n<strong>4 incline levels</strong> – the steeper the angle, the harder the workout.</li>\n<li>\n<strong>2 resistance bands included</strong> for extra challenge.</li>\n<li>\n<strong>Heavy-duty steel frame</strong> supporting up to 440 lb.</li>\n<li>\n<strong>Comfortable</strong> – 0.99\" thick knee pads, foam grips and wrist straps.</li>\n<li>\n<strong>LCD counter</strong> – tracks reps, time and calories.</li>\n<li>\n<strong>Quick setup</strong> – assembles in about 5 minutes.</li>\n</ul><h3>Specifications</h3><ul>\n<li>Material: alloy steel, foam</li>\n<li>Weight: 19 lb</li>\n<li>Max user weight: 440 lb</li>\n<li>In use: 35.5 × 34.5 × 15.7 in</li>\n<li>Folded: 47.3 × 16.5 × 9.5 in</li>\n<li>Color: Black</li>\n</ul><h3>What's included</h3><ul>\n<li>1 ab machine</li>\n<li>1 LCD monitor (requires 1 AA battery, not included)</li>\n<li>1 user manual</li>\n</ul>",
+     "seo": {
+      "title": "Foldable Ab & Core Trainer with LCD | SIVORA",
+      "description": "Ab machine with a 120° curved track, 4 incline levels, LCD counter and steel frame rated to 440 lb. Folds flat for storage."
+     },
+     "options": [
+      {
+       "name": "Actual Color",
+       "values": [
+        "Black"
+       ]
+      }
+     ],
+     "media": {
+      "nodes": [
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/d2d6dc81849ef65186fc364ee491d8e0.jpg?v=1790988085",
+         "altText": "Foldable Ab Machine, Ab Workout Equipment for Home Gym,Core & Abdominal Trainer Fitness Equipment Max 440Lbs with LCD Display"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/098cf5991db983e6e81f9730215cca51.jpg?v=1790988085",
+         "altText": "Foldable Ab Machine, Ab Workout Equipment for Home Gym,Core & Abdominal Trainer Fitness Equipment Max 440Lbs with LCD Display"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/1a43d416d32fc860cabfedb43bd3f904.jpg?v=1790988086",
+         "altText": "Foldable Ab Machine, Ab Workout Equipment for Home Gym,Core & Abdominal Trainer Fitness Equipment Max 440Lbs with LCD Display"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/fb5e8b4e3b7937e7a3bf8586cccae372.jpg?v=1790988086",
+         "altText": "Foldable Ab Machine, Ab Workout Equipment for Home Gym,Core & Abdominal Trainer Fitness Equipment Max 440Lbs with LCD Display"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/8604400fb21debd21a88d382219e6c46.jpg?v=1790988086",
+         "altText": "Foldable Ab Machine, Ab Workout Equipment for Home Gym,Core & Abdominal Trainer Fitness Equipment Max 440Lbs with LCD Display"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/5b334a4323ac114e7f17a223d98eb12c.jpg?v=1790988085",
+         "altText": "Foldable Ab Machine, Ab Workout Equipment for Home Gym,Core & Abdominal Trainer Fitness Equipment Max 440Lbs with LCD Display"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/d39d29d3d74b1434e28375d69c0ef75d.jpg?v=1790988085",
+         "altText": "Foldable Ab Machine, Ab Workout Equipment for Home Gym,Core & Abdominal Trainer Fitness Equipment Max 440Lbs with LCD Display"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/6400f496ead8969cc9472681dcecf8f8.jpg?v=1790988085",
+         "altText": "Foldable Ab Machine, Ab Workout Equipment for Home Gym,Core & Abdominal Trainer Fitness Equipment Max 440Lbs with LCD Display"
+        }
+       }
+      ]
+     },
+     "variants": {
+      "nodes": [
+       {
+        "title": "Black",
+        "sku": "8851f6ef-f30e-479e-a13d-33d683c54430",
+        "price": "86.89",
+        "compareAtPrice": "0.00",
+        "selectedOptions": [
+         {
+          "name": "Actual Color",
+          "value": "Black"
+         }
+        ]
+       }
+      ]
+     },
+     "collections": {
+      "nodes": [
+       {
+        "handle": "home-gym",
+        "title": "Home Gym"
+       }
+      ]
+     }
+    },
+    {
+     "id": "gid://shopify/Product/8861086777479",
+     "title": "Sweat Waist Trainer Belt",
+     "handle": "sweat-waist-trainer-belt",
+     "status": "ACTIVE",
+     "vendor": "SIVORA",
+     "productType": "Fitness Accessories",
+     "tags": [
+      "sweat belt",
+      "waist trainer",
+      "workout"
+     ],
+     "descriptionHtml": "<p>Turn up the heat on your workouts. This sweat belt wraps around your midsection to keep your core warm and supported while you train. Designed for both men and women.</p><h3>Specifications</h3><ul>\n<li>Size: M (8\" wide × 38\" long)</li>\n<li>Color: Black</li>\n</ul>",
+     "seo": {
+      "title": "Sweat Waist Trainer Belt for Men & Women | SIVORA",
+      "description": "Sweat belt waist trainer for men and women. Wear it during workouts for extra warmth and core support. Size M, black."
+     },
+     "options": [
+      {
+       "name": "Size",
+       "values": [
+        "M ( W 8'' × L 38'')"
+       ]
+      },
+      {
+       "name": "Color",
+       "values": [
+        "Black"
+       ]
+      }
+     ],
+     "media": {
+      "nodes": [
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/f168adc7bba5914c0b5c15a2c3d00a0b.jpg?v=1790988085",
+         "altText": "Waist Trainer for Men Women Belly Fat, Sweat Belt Band"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/40508321546d134c8d7b6f684cb44077.jpg?v=1790988086",
+         "altText": "Waist Trainer for Men Women Belly Fat, Sweat Belt Band"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/8814b0e6a2e6b9d98073cc43cfe4bde8.jpg?v=1790988086",
+         "altText": "Waist Trainer for Men Women Belly Fat, Sweat Belt Band"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/f89a92f9baff618f5a7665a95600e352.jpg?v=1790988085",
+         "altText": "Waist Trainer for Men Women Belly Fat, Sweat Belt Band"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/ee820a7f4933c594b5dc188a0dfbe157.jpg?v=1790988086",
+         "altText": "Waist Trainer for Men Women Belly Fat, Sweat Belt Band"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/1b8be44fba1ae9716543381a09031331.jpg?v=1790988086",
+         "altText": "Waist Trainer for Men Women Belly Fat, Sweat Belt Band"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/1ddf16e2647ba261b4608e0dbc414364.jpg?v=1790988086",
+         "altText": "Waist Trainer for Men Women Belly Fat, Sweat Belt Band"
+        }
+       }
+      ]
+     },
+     "variants": {
+      "nodes": [
+       {
+        "title": "M ( W 8'' × L 38'') / Black",
+        "sku": "a755b8cc-4322-4147-8f58-c269e6d58a87",
+        "price": "20.28",
+        "compareAtPrice": "0.00",
+        "selectedOptions": [
+         {
+          "name": "Size",
+          "value": "M ( W 8'' × L 38'')"
+         },
+         {
+          "name": "Color",
+          "value": "Black"
+         }
+        ]
+       }
+      ]
+     },
+     "collections": {
+      "nodes": [
+       {
+        "handle": "fitness-accessories",
+        "title": "Fitness Accessories"
+       }
+      ]
+     }
+    },
+    {
+     "id": "gid://shopify/Product/8861086810247",
+     "title": "Smart Jump Rope with Counter & LCD",
+     "handle": "smart-jump-rope",
+     "status": "ACTIVE",
+     "vendor": "SIVORA",
+     "productType": "Fitness Accessories",
+     "tags": [
+      "cardio",
+      "jump rope",
+      "smart fitness"
+     ],
+     "descriptionHtml": "<p>Make every jump count. This smart jump rope tracks your jumps, time and calories on its built-in display and syncs your workouts with the Renpho Health app so you can follow your progress over time.</p><h3>Features</h3><ul>\n<li>\n<strong>Accurate counting</strong> – a built-in chip with 3 Hall sensors records every jump.</li>\n<li>\n<strong>3 modes</strong> – free jump, time countdown and count countdown.</li>\n<li>\n<strong>App tracking</strong> – connect to the Renpho Health app to log time, jumps, calories and tangles.</li>\n<li>\n<strong>Tangle-free cable</strong> – 3 m / 9.85 ft PVC-coated steel wire, adjustable without cutting, works on tile or wood floors.</li>\n<li>\n<strong>Comfortable grip</strong> – lightweight, non-slip foam handles with an easy-to-read LCD.</li>\n</ul><h3>Specifications</h3><ul>\n<li>Rope: PVC-coated steel wire, 3 m / 9.85 ft, adjustable</li>\n<li>Handles: ABS with EVA foam</li>\n<li>Color: Black</li>\n<li>Included: 1 smart jump rope</li>\n</ul>",
+     "seo": {
+      "title": "Smart Jump Rope with Counter & App Tracking | SIVORA",
+      "description": "Smart jump rope with LCD counter, 3 workout modes and app tracking. Adjustable 9.85 ft tangle-free steel cable, comfortable foam handles."
+     },
+     "options": [
+      {
+       "name": "Color",
+       "values": [
+        "Black"
+       ]
+      }
+     ],
+     "media": {
+      "nodes": [
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/c6631ab38d9e94f14291b8654445db61.jpg?v=1790988090",
+         "altText": "Smart Jump Rope with Counter, App Data Tracking, LCD Display"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/67488752a15bb41f4473a068f3a50020.jpg?v=1790988088",
+         "altText": "Smart Jump Rope with Counter, App Data Tracking, LCD Display"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/a25d6f6ad7af25305f27fef504342f0b.jpg?v=1790988088",
+         "altText": "Smart Jump Rope with Counter, App Data Tracking, LCD Display"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/fed51336a2d712edf903e98ae5a04f08.jpg?v=1790988088",
+         "altText": "Smart Jump Rope with Counter, App Data Tracking, LCD Display"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/7cb47dd51b6cf795d845bba22ab9a51d.jpg?v=1790988088",
+         "altText": "Smart Jump Rope with Counter, App Data Tracking, LCD Display"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/2ae3af98fd13ce233fbbd5f57cf0a460.jpg?v=1790988088",
+         "altText": "Smart Jump Rope with Counter, App Data Tracking, LCD Display"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/b94a95c05b631adda1594e73d8267bf8.jpg?v=1790988089",
+         "altText": "Smart Jump Rope with Counter, App Data Tracking, LCD Display"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/8afb1a1d1d75aaa023ac36e4a67fd7e5.jpg?v=1790988088",
+         "altText": "Smart Jump Rope with Counter, App Data Tracking, LCD Display"
+        }
+       }
+      ]
+     },
+     "variants": {
+      "nodes": [
+       {
+        "title": "Black",
+        "sku": "0895ac14-4b13-4363-9e8a-c78012acd9ce",
+        "price": "28.75",
+        "compareAtPrice": "0.00",
+        "selectedOptions": [
+         {
+          "name": "Color",
+          "value": "Black"
+         }
+        ]
+       }
+      ]
+     },
+     "collections": {
+      "nodes": [
+       {
+        "handle": "fitness-accessories",
+        "title": "Fitness Accessories"
+       }
+      ]
+     }
+    },
+    {
+     "id": "gid://shopify/Product/8861086843015",
+     "title": "Extra-Thick Exercise Mat",
+     "handle": "extra-thick-exercise-mat",
+     "status": "DRAFT",
+     "vendor": "SIVORA",
+     "productType": "Home Gym Equipment",
+     "tags": [
+      "exercise mat",
+      "home gym",
+      "pilates",
+      "yoga mat"
+     ],
+     "descriptionHtml": "<p>A mat built for real workouts. High-impact foam absorbs shock and protects your joints from hard floors, while non-slip surfaces keep you steady – with or without shoes.</p><h3>Features</h3><ul>\n<li>\n<strong>3-layer construction</strong> – textured non-skid top, impact-absorbing foam core and gripping base.</li>\n<li>\n<strong>Stays in place</strong> – excellent traction on both sides.</li>\n<li>\n<strong>Odor-neutralizing</strong> – infused with activated charcoal to stay fresh with frequent use.</li>\n<li>\n<strong>Versatile</strong> – great for HIIT, yoga, pilates, stretching and meditation.</li>\n<li>\n<strong>Easy to carry</strong> – includes a carrying strap.</li>\n</ul><h3>Specifications</h3><ul>\n<li>Size: 26\" W × 72\" L</li>\n<li>Color: Teal</li>\n</ul>",
+     "seo": {
+      "title": "Extra-Thick Exercise & Yoga Mat | SIVORA",
+      "description": "Extra-thick 3-layer exercise mat for high-impact training, yoga and pilates. Non-slip surfaces, odor-neutralizing, with carrying strap."
+     },
+     "options": [
+      {
+       "name": "Color",
+       "values": [
+        "Teal"
+       ]
+      },
+      {
+       "name": "Size",
+       "values": [
+        "26\"W X 72\"L"
+       ]
+      }
+     ],
+     "media": {
+      "nodes": [
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/ee0976777e4b5dcf70668f69596ea62a.jpg?v=1790988090",
+         "altText": "Deluxe Fitness Exercise Yoga Mat for Home & Gym, Extra Thick for High Impact Training, Multi Layered Skid Resistant Surface, Odor Neutralizing with Carrying Strap"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/c0cfc005b5fc84988da6bcd8d5a9b588.jpg?v=1790988090",
+         "altText": "Deluxe Fitness Exercise Yoga Mat for Home & Gym, Extra Thick for High Impact Training, Multi Layered Skid Resistant Surface, Odor Neutralizing with Carrying Strap"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/38a82c7cb9287ef54696dbef48e9107f.jpg?v=1790988090",
+         "altText": "Deluxe Fitness Exercise Yoga Mat for Home & Gym, Extra Thick for High Impact Training, Multi Layered Skid Resistant Surface, Odor Neutralizing with Carrying Strap"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/aa34d5282aedcd169b550bdadffbd80b.jpg?v=1790988090",
+         "altText": "Deluxe Fitness Exercise Yoga Mat for Home & Gym, Extra Thick for High Impact Training, Multi Layered Skid Resistant Surface, Odor Neutralizing with Carrying Strap"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/8e6112fe4fd18e4f6708fc3ac58fcbb9.jpg?v=1790988090",
+         "altText": "Deluxe Fitness Exercise Yoga Mat for Home & Gym, Extra Thick for High Impact Training, Multi Layered Skid Resistant Surface, Odor Neutralizing with Carrying Strap"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/b83b50d2fb4b2ed06afdf85893490096.jpg?v=1790988090",
+         "altText": "Deluxe Fitness Exercise Yoga Mat for Home & Gym, Extra Thick for High Impact Training, Multi Layered Skid Resistant Surface, Odor Neutralizing with Carrying Strap"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/b5292e99a346ae9afa76d3c6df02b462.jpg?v=1790988089",
+         "altText": "Deluxe Fitness Exercise Yoga Mat for Home & Gym, Extra Thick for High Impact Training, Multi Layered Skid Resistant Surface, Odor Neutralizing with Carrying Strap"
+        }
+       }
+      ]
+     },
+     "variants": {
+      "nodes": [
+       {
+        "title": "Teal / 26\"W X 72\"L",
+        "sku": "82d66415-a69e-4e27-8a89-9e277aaf251a",
+        "price": "99.27",
+        "compareAtPrice": "0.00",
+        "selectedOptions": [
+         {
+          "name": "Color",
+          "value": "Teal"
+         },
+         {
+          "name": "Size",
+          "value": "26\"W X 72\"L"
+         }
+        ]
+       }
+      ]
+     },
+     "collections": {
+      "nodes": [
+       {
+        "handle": "home-gym",
+        "title": "Home Gym"
+       }
+      ]
+     }
+    },
+    {
+     "id": "gid://shopify/Product/8861086875783",
+     "title": "7-Color LED Light Therapy Face Mask",
+     "handle": "led-light-therapy-face-mask",
+     "status": "ACTIVE",
+     "vendor": "SIVORA",
+     "productType": "Beauty & Wellness",
+     "tags": [
+      "beauty",
+      "led mask",
+      "red light therapy",
+      "skincare"
+     ],
+     "descriptionHtml": "<p>Bring an LED skincare session home. This lightweight silicone mask combines 7 light colors – including red, blue and yellow – in a comfortable, flexible design you control from the couch.</p><h3>Features</h3><ul>\n<li>\n<strong>7 light colors</strong> – choose the light mode for your routine.</li>\n<li>\n<strong>Soft silicone</strong> – light, flexible and easy to clean, unlike stiff plastic masks.</li>\n<li>\n<strong>Eye protection</strong> – includes soft eye pads.</li>\n<li>\n<strong>Secure fit</strong> – two adjustable straps.</li>\n<li>\n<strong>Remote control</strong> – switch colors and set a 10, 15 or 20 minute session.</li>\n</ul><h3>How to use</h3><p>Use 3–4 times per week for 10–20 minutes on clean, dry skin.</p><h3>Specifications</h3><ul>\n<li>Material: silicone</li>\n<li>Color: Black</li>\n<li>Included: LED mask, remote control, eye pads</li>\n</ul>",
+     "seo": {
+      "title": "7-Color LED Light Therapy Face Mask | SIVORA",
+      "description": "Flexible silicone LED face mask with 7 light colors, eye pads, remote control and 10/15/20-minute timer. At-home skincare routine."
+     },
+     "options": [
+      {
+       "name": "Color",
+       "values": [
+        "Black"
+       ]
+      }
+     ],
+     "media": {
+      "nodes": [
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/9b90d1f76f32c60835f23af8d7b6a2de.jpg?v=1790988094",
+         "altText": "Red Light Therapy for Face, 7 Colors Red Light Therapy Mask, Black"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/fd8da028673d608591db2d640ba1321e.jpg?v=1790988094",
+         "altText": "Red Light Therapy for Face, 7 Colors Red Light Therapy Mask, Black"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/5fd67aa85cc9e453a3b1eddf8a446abd.jpg?v=1790988094",
+         "altText": "Red Light Therapy for Face, 7 Colors Red Light Therapy Mask, Black"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/2e513e4e7a1e9269168d0424c908e970.jpg?v=1790988094",
+         "altText": "Red Light Therapy for Face, 7 Colors Red Light Therapy Mask, Black"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/b251694f3d5af3e681d2941881ae3409.jpg?v=1790988093",
+         "altText": "Red Light Therapy for Face, 7 Colors Red Light Therapy Mask, Black"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/e0413b0cc0d02a5628c33d031d002e86.jpg?v=1790988094",
+         "altText": "Red Light Therapy for Face, 7 Colors Red Light Therapy Mask, Black"
+        }
+       },
+       {
+        "image": {
+         "url": "https://cdn.shopify.com/s/files/1/0762/6021/2871/files/49620183d5bca514ac4d56b77df6ebb7.jpg?v=1790988094",
+         "altText": "Red Light Therapy for Face, 7 Colors Red Light Therapy Mask, Black"
+        }
+       }
+      ]
+     },
+     "variants": {
+      "nodes": [
+       {
+        "title": "Black",
+        "sku": "64e9919d-d51f-4cbf-8a67-503681e47141",
+        "price": "51.65",
+        "compareAtPrice": "0.00",
+        "selectedOptions": [
+         {
+          "name": "Color",
+          "value": "Black"
+         }
+        ]
+       }
+      ]
+     },
+     "collections": {
+      "nodes": [
+       {
+        "handle": "beauty-wellness",
+        "title": "Beauty & Wellness"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ }
+}

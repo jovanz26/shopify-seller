@@ -1,0 +1,85 @@
+{
+ "data": {
+  "menus": {
+   "nodes": [
+    {
+     "id": "gid://shopify/Menu/248699584647",
+     "handle": "main-menu",
+     "title": "Menú principal",
+     "items": [
+      {
+       "id": "gid://shopify/MenuItem/598464856199",
+       "title": "Inicio",
+       "type": "FRONTPAGE",
+       "url": "/",
+       "resourceId": null,
+       "tags": []
+      },
+      {
+       "id": "gid://shopify/MenuItem/598464888967",
+       "title": "Catálogo",
+       "type": "CATALOG",
+       "url": "/collections/all",
+       "resourceId": null,
+       "tags": []
+      },
+      {
+       "id": "gid://shopify/MenuItem/598464921735",
+       "title": "Contacto",
+       "type": "PAGE",
+       "url": "/pages/contact",
+       "resourceId": "gid://shopify/Page/121563873415",
+       "tags": []
+      }
+     ]
+    },
+    {
+     "id": "gid://shopify/Menu/248699617415",
+     "handle": "footer",
+     "title": "Menú de pie de página",
+     "items": [
+      {
+       "id": "gid://shopify/MenuItem/598464954503",
+       "title": "Buscar",
+       "type": "SEARCH",
+       "url": "/search",
+       "resourceId": null,
+       "tags": []
+      },
+      {
+       "id": "gid://shopify/MenuItem/598465052807",
+       "title": "Tus opciones de privacidad",
+       "type": "PAGE",
+       "url": "/pages/data-sharing-opt-out",
+       "resourceId": "gid://shopify/Page/121563906183",
+       "tags": []
+      }
+     ]
+    },
+    {
+     "id": "gid://shopify/Menu/248699650183",
+     "handle": "customer-account-main-menu",
+     "title": "Menú principal de la cuenta de cliente",
+     "items": [
+      {
+       "id": "gid://shopify/MenuItem/598464987271",
+       "title": "Pedidos",
+       "type": "CUSTOMER_ACCOUNT_PAGE",
+       "url": "https://shopify.com/76260212871/account/orders",
+       "resourceId": "gid://shopify/CustomerAccountPage/113410310279",
+       "tags": []
+      },
+      {
+       "id": "gid://shopify/MenuItem/598465020039",
+       "title": "Perfil",
+       "type": "CUSTOMER_ACCOUNT_PAGE",
+       "url": "https://shopify.com/76260212871/account/profile",
+       "resourceId": "gid://shopify/CustomerAccountPage/113410343047",
+       "tags": []
+      }
+     ]
+    }
+   ]
+  }
+ }
+}
