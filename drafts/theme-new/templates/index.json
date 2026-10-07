@@ -1,0 +1,338 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "ds_slideshow_jhiiyq": {
+      "type": "ds-slideshow",
+      "blocks": {
+        "slide_UgrXxH": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/smashy-banner1.jpg",
+            "mobile_image": "shopify://shop_images/smashy-banner1.jpg",
+            "heading": "Squish Away the Stress",
+            "heading_size": "h1",
+            "subheading": "Soft, squishy fidget toys made for slow evenings, busy minds and cozy corners.",
+            "button_label": "Shop Now",
+            "link": "shopify://collections/all",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_6B7cwD": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/smashy-banner2.jpg",
+            "mobile_image": "shopify://shop_images/smashy-banner2.jpg",
+            "heading": "Your New Comfort Squeeze",
+            "heading_size": "h1",
+            "subheading": "Squeeze, stretch and relax. Little moments of calm you can hold in your hand.",
+            "button_label": "Shop Now",
+            "link": "shopify://collections/all",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_pkJi7G": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/smashy-banner3.jpg",
+            "mobile_image": "shopify://shop_images/smashy-banner3.jpg",
+            "heading": "Cozy Vibes, Squishy Hearts",
+            "heading_size": "h1",
+            "subheading": "Pastel squishies, jelly cubes and stress balls for every mood.",
+            "button_label": "Shop Now",
+            "link": "shopify://collections/all",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_UgrXxH",
+        "slide_6B7cwD",
+        "slide_pkJi7G"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "small",
+        "slider_visual": "counter",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Smashy cozy squishy toys",
+        "color_scheme": "background-1"
+      }
+    },
+    "multirow_ftq6YR": {
+      "type": "multirow",
+      "blocks": {
+        "row_gWrV8y": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/smashy-banner2.jpg",
+            "caption": "",
+            "heading": "<strong>Made to Be Squeezed</strong>",
+            "text": "<p>Super soft, slow-rising and satisfying. Every squish is designed to melt tension away, whether you're studying, working or winding down for the night.</p>",
+            "button_label": "Shop Now",
+            "button_link": "shopify://collections/all"
+          }
+        },
+        "row_mjxcta": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/smashy-banner3.jpg",
+            "caption": "",
+            "heading": "<strong>Your Cozy Corner Companion</strong>",
+            "text": "<p>Keep one on your desk, one on the couch and one in your bag. Small, light and always ready when you need a little calm.</p>",
+            "button_label": "Shop Now",
+            "button_link": "shopify://collections/all"
+          }
+        },
+        "row_ga3i9m": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/smashy-banner1.jpg",
+            "caption": "",
+            "heading": "<strong>A Gift That Feels Like a Hug</strong>",
+            "text": "<p>Colorful, playful and perfect for friends, kids and anyone who needs a soft spot in their day.</p>",
+            "button_label": "Shop Now",
+            "button_link": "shopify://collections/all"
+          }
+        }
+      },
+      "block_order": [
+        "row_gWrV8y",
+        "row_mjxcta",
+        "row_ga3i9m"
+      ],
+      "settings": {
+        "image_height": "small",
+        "desktop_image_width": "small",
+        "heading_size": "h2",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "center",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "scheme-1",
+        "row_color_scheme": "scheme-43067ba1-e386-413e-947a-e8551c01b85f",
+        "mobile_content_alignment": "center",
+        "padding_top": 32,
+        "padding_bottom": 32
+      }
+    },
+    "ds_horizontal_ticker_Tfpimk": {
+      "type": "ds-horizontal-ticker",
+      "blocks": {
+        "text_krtTHy": {
+          "type": "text",
+          "settings": {
+            "title": "Squeeze"
+          }
+        },
+        "text_EDEaTP": {
+          "type": "text",
+          "settings": {
+            "title": "Relax"
+          }
+        },
+        "text_PLWHrP": {
+          "type": "text",
+          "settings": {
+            "title": "Repeat"
+          }
+        }
+      },
+      "block_order": [
+        "text_krtTHy",
+        "text_EDEaTP",
+        "text_PLWHrP"
+      ],
+      "settings": {
+        "speed": 3,
+        "text_spacing": 1.5,
+        "text_size": "1.75",
+        "italic_text": false,
+        "uppercase_text": false,
+        "bold_text": false,
+        "color_scheme": "custom",
+        "padding_top": 16,
+        "padding_bottom": 16,
+        "custom_colors_background": "#efe6f7",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#5a3a2e"
+      }
+    },
+    "ds_icon_bar_HaUALW": {
+      "type": "ds-icon-bar",
+      "blocks": {
+        "column_4zRAFa": {
+          "type": "column",
+          "settings": {
+            "icon": "heart",
+            "title": "Super Soft & Satisfying",
+            "text": "<p>Slow-rising, squeezable and made to be played with again and again.</p>"
+          }
+        },
+        "column_KRBcLg": {
+          "type": "column",
+          "settings": {
+            "icon": "star",
+            "title": "Calm in Your Hands",
+            "text": "<p>A simple, screen-free way to fidget, focus and unwind.</p>"
+          }
+        },
+        "column_wbHVEM": {
+          "type": "column",
+          "settings": {
+            "icon": "truck",
+            "title": "Free Shipping",
+            "text": "<p>Free shipping on every order across the USA.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "column_4zRAFa",
+        "column_KRBcLg",
+        "column_wbHVEM"
+      ],
+      "settings": {
+        "title": "Why You'll Love Smashy",
+        "heading_size": "h2",
+        "text": "",
+        "icon_size": "small",
+        "columns_desktop": 3,
+        "icon_color": "accent-2",
+        "background_style": "none",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 48,
+        "padding_bottom": 56,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39"
+      }
+    },
+    "video_MjrBeT": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "",
+        "cover_image": "shopify://shop_images/smashy-banner1.jpg",
+        "description": "",
+        "full_width": true,
+        "color_scheme": "scheme-1",
+        "padding_top": 0,
+        "padding_bottom": 0
+      },
+      "disabled": true
+    },
+    "ds_testimonials_F4dxEV": {
+      "type": "ds-testimonials",
+      "blocks": {
+        "column_94mA9b": {
+          "type": "column",
+          "settings": {
+            "title": "Game-Changer for My Training",
+            "text": "<h5>I've been using the gear from this store for a few months now, and it’s truly a game-changer for my training...</h5>",
+            "author": "Sarah L."
+          }
+        },
+        "column_B6D3xg": {
+          "type": "column",
+          "settings": {
+            "title": "Perfect Fit for My Fitness Journey",
+            "text": "<h5>The quality of the activewear and supplements here is fantastic. I started using their protein powder and have ...</h5>",
+            "author": "Daniel M."
+          }
+        },
+        "column_geRhPq": {
+          "type": "column",
+          "settings": {
+            "title": "Top-Notch Sports Equipment!",
+            "text": "<h5>I’m extremely impressed with the tennis rackets and balls I purchased from this store. The racket is lightweight...</h5>",
+            "author": "Emily R."
+          }
+        }
+      },
+      "block_order": [
+        "column_94mA9b",
+        "column_B6D3xg",
+        "column_geRhPq"
+      ],
+      "settings": {
+        "title": "What Our Clients Say",
+        "heading_size": "h2",
+        "text": "",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "slider_preview": true,
+        "column_alignment": "center",
+        "show_stars": false,
+        "stars_color": "#ffd700",
+        "show_quotes": false,
+        "quotes_color_scheme": "accent-2",
+        "background_style": "primary",
+        "color_scheme": "background-1",
+        "padding_top": 48,
+        "padding_bottom": 48,
+        "custom_colors_background": "#ffffff",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#2e2a39"
+      },
+      "disabled": true
+    },
+    "contact_form_6NFGbR": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Say Hi to Smashy",
+        "heading_size": "h1",
+        "button_full_width": true,
+        "color_scheme": "custom",
+        "padding_top": 12,
+        "padding_bottom": 56,
+        "custom_colors_background": "#fff8f1",
+        "custom_gradient_background": "",
+        "custom_colors_text": "#4a3229",
+        "custom_colors_solid_button_background": "#5a3a2e",
+        "custom_colors_solid_button_text": "#fff8f1"
+      }
+    }
+  },
+  "order": [
+    "ds_slideshow_jhiiyq",
+    "multirow_ftq6YR",
+    "ds_horizontal_ticker_Tfpimk",
+    "ds_icon_bar_HaUALW",
+    "video_MjrBeT",
+    "ds_testimonials_F4dxEV",
+    "contact_form_6NFGbR"
+  ]
+}

@@ -46,7 +46,7 @@ La tienda importa y sincroniza productos con AutoDS:
 
 ## Tema
 
-Tema activo: "Build Your Store Theme" (fork de Dawn 15.2). Los círculos de color toman el color del alt de la imagen de la variante; se parcheó `snippets/swatch.liquid` para usar el nombre del valor (White, Black…) como color CSS, y los círculos miden 3.2rem (`assets/component-swatch-input.css`). Por eso las variantes de color deben llamarse con el nombre del color en inglés.
+Tienda renombrada a **Smashy** (squishy fidget toys, ambiente cozy: crema/durazno/lavanda, logo `smashy-logo.png`). Tema activo: "Smashy cozy" (copia de "Build Your Store Theme", que queda sin publicar como respaldo; fork de Dawn 15.2). Los círculos de color toman el color del alt de la imagen de la variante; se parcheó `snippets/swatch.liquid` para usar el nombre del valor (White, Black…) como color CSS, y los círculos miden 3.2rem (`assets/component-swatch-input.css`). Por eso las variantes de color deben llamarse con el nombre del color en inglés.
 
 ## Estructura
 
